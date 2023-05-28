@@ -9,3 +9,9 @@ return (
 
 }
 export default FungctionalComponent;
+
+
+//Blackbox auto complete
+//creat auto complete function for auto complete
+
+//create code import function?
